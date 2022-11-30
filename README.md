@@ -60,10 +60,6 @@
 #### View Comments
 ![Product Name Screen Shot][product-screenshot7]
 
-#### Database Screenshots
-![Product Name Screen Shot][product-screenshot8]
-![Product Name Screen Shot][product-screenshot9]
-![Product Name Screen Shot][product-screenshot10]
 
 
 **KJ Somaiya College of Engineering TY BTECH SEM-V Full Stack Development Lab Mini Project**
