@@ -51,23 +51,20 @@
 #### Home page
 ![Product Name Screen Shot][product-screenshot4]
 
-#### Individual TV Show page with continue watching
+#### Write a Blog
 ![Product Name Screen Shot][product-screenshot5]
 
-#### Search Results
+#### View Blog
 ![Product Name Screen Shot][product-screenshot6]
 
-#### Profile Page with Subscription Invoice
+#### View Comments
 ![Product Name Screen Shot][product-screenshot7]
 
-#### Subscription Page
+#### Database Screenshots
 ![Product Name Screen Shot][product-screenshot8]
-
-#### Recommendations
 ![Product Name Screen Shot][product-screenshot9]
-
-#### Watching a movie
 ![Product Name Screen Shot][product-screenshot10]
+
 
 **KJ Somaiya College of Engineering TY BTECH SEM-V Full Stack Development Lab Mini Project**
 
