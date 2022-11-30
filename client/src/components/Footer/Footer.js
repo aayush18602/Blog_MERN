@@ -26,7 +26,7 @@ const Footer = () => {
                 </li>
             </ul>
             <p className="footer__copyright">
-                copyright &#169; HIBATHULLA CM
+                &#169; AAYUSH,MANAV,PRATHAM
             </p>
         </footer>
     )
