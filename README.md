@@ -110,7 +110,7 @@ Project Link: [https://github.com/aayush18602/Blog_MERN](https://github.com/aayu
 [issues-shield]: https://img.shields.io/github/issues/aayush18602/Blog_MERN.svg?style=for-the-badge
 [issues-url]: https://github.com/aayush18602/Blog_MERN/issues
 [license-shield]: https://img.shields.io/github/license/aayush18602/Blog_MERN?label=license&style=for-the-badge
-[license-url]: https://github.com/aayush18602/Blog_MERN/blob/main/LICENSE.txt
+[license-url]: https://github.com/aayush18602/Blog_MERN/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [product-screenshot1]: images/screenshot1.png
 [product-screenshot2]: images/screenshot2.png
