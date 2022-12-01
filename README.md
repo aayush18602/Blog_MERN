@@ -49,16 +49,16 @@
 ![Product Name Screen Shot][product-screenshot2]
 
 #### Home page
-![Product Name Screen Shot][product-screenshot4]
+![Product Name Screen Shot][product-screenshot]
 
 #### Write a Blog
-![Product Name Screen Shot][product-screenshot5]
+![Product Name Screen Shot][product-screenshot4]
 
 #### View Blog
-![Product Name Screen Shot][product-screenshot6]
+![Product Name Screen Shot][product-screenshot5]
 
 #### View Comments
-![Product Name Screen Shot][product-screenshot7]
+![Product Name Screen Shot][product-screenshot6]
 
 
 
