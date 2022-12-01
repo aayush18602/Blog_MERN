@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/aayush18602/Blog_MERN">
-    <img src="images/logo.png" alt="Logo">
+    <img src="images/screenshot.png" alt="Logo">
   </a>
 
   <h3 align="center">Blog Application</h3>
@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot][product-screenshot]
+![Product Name Screen Shot][product-screenshot3]
 
 #### Login page
 ![Product Name Screen Shot][product-screenshot1]
@@ -49,7 +49,7 @@
 ![Product Name Screen Shot][product-screenshot2]
 
 #### Home page
-![Product Name Screen Shot][product-screenshot]
+![Product Name Screen Shot][product-screenshot3]
 
 #### Write a Blog
 ![Product Name Screen Shot][product-screenshot4]
